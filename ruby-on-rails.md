@@ -32,4 +32,11 @@ We can map that to a controller.
 When that 
 
 ---
+### Migrations
+
+Migrations are used to alter a database structure within the application. Migrations are written in Ruby within rails so that they can be database-agnostic. This means that the application can function with any vendors database management system. 
+
+
+
+---
 
